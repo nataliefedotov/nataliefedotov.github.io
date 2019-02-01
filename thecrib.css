@@ -1,0 +1,24 @@
+p {
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 260%;
+    color: white;
+}
+
+body {
+    color: white;
+    background: darkgreen;
+    font-size: 14pt;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: lightgray;
+}

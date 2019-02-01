@@ -1,0 +1,24 @@
+
+p {
+
+}
+
+h1 {
+    font-size: 260%;
+    color: darkred;
+}
+
+body {
+    color: darkred;
+    background-image: url('https://media.giphy.com/media/xTcnT2ZYSaCTdkTSmI/giphy.gif');
+    background-size: cover;
+    font-size: 12pt;
+    font-family: 'Lily Script One', cursive;
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
+}
+a:hover {
+    color: lightpink;
