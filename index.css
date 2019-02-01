@@ -1,23 +1,49 @@
 p {
 
+
+
 }
+
+
 
 h1 {
+
     text-align: center;
+
     font-size: 260%;
-    color: black;
+
+    color: #bdff00;
+
 }
+
+
 
 body {
-    color: black;
-    background: yellow;
+
+    color: #bdff00;
+
+    background-image: url('https://media.giphy.com/media/hHFDrApke3dhC/giphy.gif');
+
+    background-size: cover;
+
     font-size: 12pt;
-    font-family: 'Major Mono Display', monospace;
+
+    font-family: 'Oldenburg', cursive;
+
 }
 
+
+
 a {
-    color: black;
+
+    color: #bdff00;
+
     text-decoration: none;
+
 }
+
 a:hover {
-    color: saddlebrown;
+
+    color: forestgreen;
+
+}
